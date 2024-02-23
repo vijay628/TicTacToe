@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.77acbbd6.css",
+    "main.js": "/test/static/js/main.9926acab.js",
+    "static/js/453.a5a72b74.chunk.js": "/test/static/js/453.a5a72b74.chunk.js",
+    "static/media/Purple Simple Congratulations Card.png": "/test/static/media/Purple Simple Congratulations Card.113ce9777eeb516f644f.png",
+    "static/media/circle-svgrepo-com.png": "/test/static/media/circle-svgrepo-com.bbae818a299f2200e96a.png",
+    "index.html": "/test/index.html",
+    "main.77acbbd6.css.map": "/test/static/css/main.77acbbd6.css.map",
+    "main.9926acab.js.map": "/test/static/js/main.9926acab.js.map",
+    "453.a5a72b74.chunk.js.map": "/test/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77acbbd6.css",
+    "static/js/main.9926acab.js"
+  ]
+}
